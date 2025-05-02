@@ -3,6 +3,6 @@ There is my actual projects
 ![image](https://github.com/user-attachments/assets/a80eaf6b-2ee3-4c9e-b720-0d990ad658fa)
 **My projects**
 
-[Vibrant Preset](/Vibrant%20preset/README.md)
+[Vibrant Preset](/Vibrant%20preset/)
 
 [Project 3013](/Project%203013/README.md)
