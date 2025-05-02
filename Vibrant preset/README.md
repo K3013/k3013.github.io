@@ -1,4 +1,6 @@
 ## Vibrant
+![image](https://github.com/user-attachments/assets/555ea2b2-2429-4dfa-9ffe-d5d21bf8cb75)
+
 Vibrant is a BetterRTX preset made with the "bedrock.graphics/creator" tool
 # How to install
 There is not installation links but there is a way to download :
