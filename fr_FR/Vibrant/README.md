@@ -20,3 +20,7 @@ Il y a aucun lien mais il y a une solution pour le télécharger :
 6 - Lanchez votre jeu
 
 7 - Profitez
+
+Téléchargements :
+
+[Vibrant](/downloads/
