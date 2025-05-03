@@ -23,4 +23,4 @@ Il y a aucun lien mais il y a une solution pour le télécharger :
 
 Téléchargements :
 
-(bedrock.graphics/installer)
+[Installateur](https://bedrock.graphics/installer)
