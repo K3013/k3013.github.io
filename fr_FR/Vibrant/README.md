@@ -23,4 +23,4 @@ Il y a aucun lien mais il y a une solution pour le télécharger :
 
 Téléchargements :
 
-[Vibrant](/download/Better%20RTX%20-%20Vibrant%20Preset.rtpack/)
+[Vibrant](/downloads/Better%20RTX%20-%20Vibrant%20Preset.rtpack/)
