@@ -1,1 +1,7 @@
 @import "{{ site.theme }}";
+.favicon-icon {
+    background-image: url('favicon.ico');
+    width: 32px;
+    height: 32px;
+    display: inline-block;
+}
