@@ -1,1 +1,7 @@
 @import "{{ site.theme }}";
+@font-face {
+    font-family: F16;
+    src: url("/text_style/Font.ttf") format('truetype');
+    font-weight: bold;
+    font-style: normal;
+};
